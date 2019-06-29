@@ -135,11 +135,6 @@ Click and drag a **set seconds to 0** block to within the **on start** block. Yo
 
 #### Well done you have completed the code!
 
-<br>
-<br>
-<br>
-<br>
-
 ## Completed Code
 
 ![Code Block 9](images/CodeBlock09.png)
