@@ -15,7 +15,8 @@ K8 is a two-wheeled programmable robot powered by the micro:bit. The electronic 
 
 ## PROGRAMMING K8
 
-To program K8 we first need to open the [MakeCode editor](www.makecode.microbit.org) (www.makecode.microbit.org) into your chosen web browser. Click on a new project, within the programming menu click on Advanced. Scroll to the bottom and click on Extensions, within the search bar at the top type K8 and click on the image of "K8". ![K8 Extension](/Images/Extension.png)
+To program K8 we first need to open the [MakeCode editor](www.makecode.microbit.org) (www.makecode.microbit.org) into your chosen web browser. Click on a new project, within the programming menu click on Advanced. Scroll to the bottom and click on Extensions, within the search bar at the top type K8 and click on the image of "K8".
+![K8 Extension](/Images/Extension.png)
 
 ## CONTROLLING THE MOTORS
 
@@ -25,7 +26,8 @@ Now that we have got up and running with MakeCode we can start programming!
 2. Click on motion, click and drag drive straight speed 0 to the coding area and attach it within on button A pressed.
 3. Click on 0 and type 50.
 ![Driving straight code](/Images/DrivingStraight.png)
-4. Click on Download to download the code file to the micro:bit. Once the light on the back of the micro:bit has stopped blinking unplug the micro:bit from the computer and attach it to K8. ![K8 Robot](/Images/K8.jpg)  
+4. Click on Download to download the code file to the micro:bit. Once the light on the back of the micro:bit has stopped blinking unplug the micro:bit from the computer and attach it to K8.
+![K8 Robot](/Images/K8.png)  
 
 Turn the battery pack and controller board on, put K8 on the floor and press button A on the micro:bit. K8 should now start driving forward.
 
@@ -38,12 +40,12 @@ Modify your code to look like this:
 
 The infrared sensors point downwards and detect light and dark surfaces.
 
-To make our track we will want to use black electrical tape on a white surface and make sure it is a closed-loop. ![Track](/Images/Track.jpg)
+To make our track we will want to use black electrical tape on a white surface and make sure it is a closed-loop. ![Track](/Images/Track.png)
 
 ### CONFIGURING THE LIGHT SENSORS
 
 1. Turn K8 upside down so the sensors are pointing upwards.
-![Line seonsors](/Images/LineSensor.jpg)
+![Line seonsors](/Images/LineSensor.png)
 2. Turn the dial clockwise until the red signal light on the IR (infrared) sensor turns on.
 3. Very gently turn the dial counter-clockwise until the red light turns back off, this makes sure the sensitivity of the sensor is maximised and the sensor can tell the difference between black and white.
 [How to Calibrate IR sensors](https://vimeo.com/373893397) (https://vimeo.com/373893397)
@@ -52,7 +54,7 @@ To make our track we will want to use black electrical tape on a white surface a
 ![Testing IR seonsor](/Images/TestingIR.png)
  Download the code to the micro:bit, once the light on the back of the micro:bit has stopped blinking unplug the micro:bit from the computer and connect it onto K8.
 6. Place K8 on a white surface, if the sensors are calibrated correctly the first, third and fifth column of LEDs on the micro:bit should light up.
-![IR Sensor configured](/Images/IRSensorConfig.jpg)
+![IR Sensor configured](/Images/IRSensorConfig.png)
 7. If this doesn't work repeat steps one and two.
 8. Place a bit of black electrical tape on the white surface and slowly sweep K8 over the line. The columns of LEDs should turn off when the corresponding sensor sees the black tape.
 
