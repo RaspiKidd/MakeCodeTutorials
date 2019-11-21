@@ -52,6 +52,7 @@ To make our track we will want to use black electrical tape on a white surface a
 4. Repeat for the steps above for the other two sensors.
 5. Create the following program to test the sensors.
 ![Testing IR seonsor](/Images/TestingIR.png)
+
  Download the code to the micro:bit, once the light on the back of the micro:bit has stopped blinking unplug the micro:bit from the computer and connect it onto K8.
 6. Place K8 on a white surface, if the sensors are calibrated correctly the first, third and fifth column of LEDs on the micro:bit should light up.
 ![IR Sensor configured](/Images/IRSensorConfig.png)
