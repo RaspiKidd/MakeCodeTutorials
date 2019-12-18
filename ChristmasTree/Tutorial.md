@@ -19,7 +19,7 @@ Using the three crocodile/alligator clips we need to connect the Christmas tree 
 3. Take the last crocodile/alligator clip and attach it to **GND** on the Christmas tree. Take the other end of the crocodile/alligator clip and attach it to **GND** on the micro:bit.
 
 Once all the wires are connected between the micro:bit and Christmas tree it should look something like this:
-![Christmas tree wiring](wiring.jpg)
+![Christmas tree wiring](Images/wiring.jpg)
 
 ## Coding The Christmas Tree
 
@@ -42,10 +42,25 @@ To code your Christmas tree we first need to open the MakeCode editor. You can d
 7. Click on **24** and type **5**. This is how many neopixels are on the Christmas Tree.
 
 Your Code should now look like this:
+![Setting up Neopixels](Images/CodeBlock01.png)
 
 
 We now have the Neopixels configured in MakeCode. We can now code our Christmas tree!
 
 ### Lighting Up Our Tree
 
+1. Click on Neopixel
+2. Click and drag a **strip show rainbow from 1 to 360** to the coding area and attach it within the **forever** block
+3. Click on the small arrow next to **strip** and click on **tree**
 
+Your code should now look like this:
+![Lighting up your Christmas tree](Images/CodeBlock02.png)
+
+## Downloading your code to the micro:bit
+
+1. Click on **Download** and save your code file in the downloads folder
+2. Navigate to the Downloads folder on your computer
+3. Copy your code file
+4. Click on **MICROBIT** in the file manager and paste your cod file.
+
+You will now see the light on the back of your micro:bit. Once this has finished. you should see your Christmas tree light up.
