@@ -19,7 +19,7 @@ Using the three crocodile/alligator clips we need to connect the Christmas tree 
 3. Take the last crocodile/alligator clip and attach it to **GND** on the Christmas tree. Take the other end of the crocodile/alligator clip and attach it to **GND** on the micro:bit.
 
 Once all the wires are connected between the micro:bit and Christmas tree it should look something like this:
-![Christmas tree wiring](Images/wiring.jpg)
+![Christmas tree wiring](Images/wiring.png)
 
 ## Coding The Christmas Tree
 
