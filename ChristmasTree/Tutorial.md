@@ -40,3 +40,12 @@ To code your Christmas tree we first need to open the MakeCode editor. You can d
 5. Click and drag a **set strip to NeoPixel at pin P0 with 24 leds as RGB (RGBformat)** to the coding area and attach it within the **on start** Code block.
 6. Click on the arrow next to **strip** and click on **tree**
 7. Click on **24** and type **5**. This is how many neopixels are on the Christmas Tree.
+
+Your Code should now look like this:
+
+
+We now have the Neopixels configured in MakeCode. We can now code our Christmas tree!
+
+### Lighting Up Our Tree
+
+
