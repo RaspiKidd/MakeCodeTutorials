@@ -83,7 +83,7 @@ Your code should look like this:
 2. Attach the duplicated code within the blank space of the **else if then** block
 3. Click on the **0** within the **else if roll = 0 then** block and type **3**
 4. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else if roll = 3 then** block
-5. Click on the **second sqaare within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 4 on the dice
+5. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 4 on the dice
 6. Click on the **plus symbol**
 
 Your code should look like this:
@@ -95,7 +95,7 @@ Your code should look like this:
 2. Attach the duplicated code within the blank space of the **else if then** block
 3. Click on the **0** within the **else if roll = 0 then** block and type **4**
 4. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else if roll = 4 then** block
-5. Click on the **second sqaare within the seconds line**, click on the **fourth square of the second line**, click on the **third square of the third line** click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 5 on the dice
+5. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **third square of the third line** click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 5 on the dice
 
 Your code should look like this:
 ![coding a 5](Images/five.png)
@@ -103,7 +103,7 @@ Your code should look like this:
 ### Code for Rolling a 6
 
 1. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else** block
-2. Click on the **second sqaare within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the third line**, click on the **fourth square of the third line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 6 on the dice
+2. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the third line**, click on the **fourth square of the third line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 6 on the dice
 
 Your code should look like this:
 ![coding a 6](Images/six.png)
@@ -119,7 +119,7 @@ Once you have completed the steps above your completed code should look like thi
 
 To download the code to your micro:bit follow these instructions:
 
-1. Plug your micro@bit into the computer using the USB cable
+1. Plug your micro:bit into the computer using the USB cable
 2. Click on **Download**
 3. Once you have chosen a location to save the file click on **Save**
 4. Now open the file explorer and navigate to the file you have just saved
