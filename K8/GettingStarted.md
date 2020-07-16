@@ -2,23 +2,23 @@
 
 A guide on how to get up and running quickly with the K8 robot from [Insksmith](www.inksmith.ca/pages/k8-robotics-kit) (www.inksmith.ca/pages/k8-robotics-kit)
 
-## WHAT IS K8?
+## What is K8?
 
 K8 is a two-wheeled programmable robot powered by the micro:bit. The electronic components within K8 are easy to use and designed for beginners.
 
-## WHAT IS INSIDE K8?
+## What is inside K8?
 
 * 2 x DC motors
 * 1 x Line follower made up of 3 infrared sensors
 * 1 x ultrasonic sensor (used for object detection)
 * 2 x Servo motors
 
-## PROGRAMMING K8
+## Programming K8
 
 To program K8 we first need to open the [MakeCode editor](www.makecode.microbit.org) (www.makecode.microbit.org) into your chosen web browser. Click on a new project, within the programming menu click on Advanced. Scroll to the bottom and click on Extensions, within the search bar at the top type K8 and click on the image of "K8".
 ![K8 Extension](/Images/Extension.png)
 
-## CONTROLLING THE MOTORS
+## Controlling The Motors
 
 Now that we have got up and running with MakeCode we can start programming!
 
@@ -36,13 +36,13 @@ Let's see what else K8 can do.
 Modify your code to look like this:
 ![Driving Test](/Images/DrivingTest.png)
 
-## LINE FOLLOWING
+## Line Following
 
 The infrared sensors point downwards and detect light and dark surfaces.
 
 To make our track we will want to use black electrical tape on a white surface and make sure it is a closed-loop. ![Track](/Images/Track.png)
 
-### CONFIGURING THE LIGHT SENSORS
+### Configuring The Light Sensors
 
 1. Turn K8 upside down so the sensors are pointing upwards.
 ![Line seonsors](/Images/LineSensor.png)
@@ -59,13 +59,13 @@ To make our track we will want to use black electrical tape on a white surface a
 7. If this doesn't work repeat steps one and two.
 8. Place a bit of black electrical tape on the white surface and slowly sweep K8 over the line. The columns of LEDs should turn off when the corresponding sensor sees the black tape.
 
-### TESTING THE TRACK
+### Testing The Track
 
 1. Create a closed-loop track using black electrical tape on a white surface.
 2. Create the following code to test your track.
 ![Line following code](/Images/LineFollowing.png)
 
-## OBJECT DETECTION
+## Object Detection
 
 K8's eyes may look similar to ours with being two round holes, but they behave very differently. K8's eyes behave more like the way a bat or dolphin would detect objects within their habitat using echolocation. Echolocation is where properties of sound are used to bounce signals off of objects and judge how far away the objects are.
 
@@ -77,7 +77,7 @@ Place K8 in front of a wall, move K8 closer to the wall and further away from th
 Here is some sample code to show K8 detecting and avoiding objects.
 ![Driving with Sonar code](/Images/DrivingSonar.png)
 
-## USING RADIO
+## Using The Radio
 
 We are going to use the radio function on the micro:bits so we can introduce a second micro:bit to control K8.
 
@@ -86,6 +86,6 @@ Here is the example code for the controller:
 Here is the example code for K8:
 ![K8 Code](/Images/K8Remote.png)
 
-## CONCLUSION
+## Conclusion
 
 We have covered the basics of programming K8. You can now go and explore with K8 and MakeCode to see what else K8 can do!

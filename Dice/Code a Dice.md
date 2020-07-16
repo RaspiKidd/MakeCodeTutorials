@@ -90,7 +90,11 @@ Your code should look like this:
 2. Attach the duplicated code within the blank space of the **else if then** block
 3. Click on the **0** within the **else if roll = 0 then** block and type **3**
 4. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else if roll = 3 then** block
+<<<<<<< HEAD
 5. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the fourth line** and click on the **fourth square of the fourth line** this will create our number 4 on the dice
+=======
+5. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 4 on the dice
+>>>>>>> ec8ae0b7327a637831e581767408c70788ce8e4f
 6. Click on the **plus symbol**
 
 Your code should look like this:
@@ -102,9 +106,14 @@ Your code should look like this:
 1. Hover over **roll = 0**, right click and click on **Duplicate**
 2. Attach the duplicated code within the blank space of the **else if then** block
 3. Click on the **0** within the **else if roll = 0 then** block and type **4**
+<<<<<<< HEAD
 4. Hover over **show leds** block for displaying a four and right click and click on **duplicate**
 5. Attach the duplicated block below **else if roll = 4**
 6. Click on the **third square within the third line**, click on the **fourth square of the second line**, click on the **third square of the third line** to create a five.
+=======
+4. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else if roll = 4 then** block
+5. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **third square of the third line** click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 5 on the dice
+>>>>>>> ec8ae0b7327a637831e581767408c70788ce8e4f
 
 Your code should look like this:
 
@@ -113,7 +122,11 @@ Your code should look like this:
 ### Code for Rolling a 6
 
 1. Click on **Basic**, Click and drag a **show leds** block to the coding area and attach it below the **else** block
+<<<<<<< HEAD
 2. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the third line**, click on the **fourth square of the third line**, click on the **second square of the fourth line** and click on the **fourth square of the fourth line** this will create our number 6 on the dice
+=======
+2. Click on the **second square within the seconds line**, click on the **fourth square of the second line**, click on the **second square of the third line**, click on the **fourth square of the third line**, click on the **second square of the fourth line** and click on the **fourth sqaure of the fourth line** this will create our number 6 on the dice
+>>>>>>> ec8ae0b7327a637831e581767408c70788ce8e4f
 
 Your code should look like this:
 

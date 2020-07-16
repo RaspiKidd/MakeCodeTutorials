@@ -28,11 +28,13 @@ Click and drag the forever block to the left until you see a bin icon. Now drop 
 
 2. Click on **Make a Variable**.
 
-3. Type "**seconds**" into the text box and click Ok.
+3. Type **seconds** into the text box and click Ok.
 
 ### Setting seconds to 0 on start
 
-Click and drag a **set seconds to 0** block to within the **on start** block. Your code should now look like this:
+Click and drag a **set seconds to 0** block to within the **on start** block. 
+
+Your code should now look like this:
 
 ![Code Block 1](images/CodeBlock01.png)
 
@@ -55,19 +57,23 @@ Click and drag a **set seconds to 0** block to within the **on start** block. Yo
 7. Click on **Variables**.
 
 8. Click and drag a **seconds** block and attach it within the first 0 of the **if then** code block.
-9.  Where the second 0 is type 20. Your code should now look like this:
+
+9.  Where the second **0** is type **20**. Your code should now look like this:
 
 ![Code Block 3](images/CodeBlock03.png)
 
 10. Click on **Variables**.
 
 11. Click and drag a **change seconds by 1** block to the coding area and attach it within the **if then** block.
+
 12. Click on **Basic**.
 
 13. Click and drag a **show number** and attach it under the **change seconds by** block.
+
 14. Click on **Variables**.
 
-15. Click and drag a **seconds** block and attach it into the 0 of the **show number** block.
+15. Click and drag a **seconds** block and attach it into the **0** of the **show number** block.
+    
 16. Click on **Basic**.
 
 17. Click on **more**.
@@ -81,11 +87,12 @@ Click and drag a **set seconds to 0** block to within the **on start** block. Yo
 1. Click on **Input**.
 
 2. Click and drag an **on button A pressed** and drag it to the coding area.
-3. Click on the small arrow next to "**A**" and click on **B**.
+
+3. Click on the small arrow next to **A** and click on **B**.
 
 4. Click on **Loops**.
 
-5. Click and drag a **while true do** block on to the coding area and attach it to **on button B pressed**.
+5. Click and drag a **while true do** block to the coding area and attach it to **on button B pressed**.
 
 6. Click on **Logic**.
 
@@ -113,7 +120,7 @@ Click and drag a **set seconds to 0** block to within the **on start** block. Yo
 
 15. Click on **Basic**.
 
-16. Click and drag a **pause (ms) 100** block and attach it under show number.
+16. Click and drag a **pause (ms) 100** block and attach it under **show number**.
 
 17. Click on the small arrow next to **100** and click on **1 second**.
 
@@ -123,7 +130,7 @@ Click and drag a **set seconds to 0** block to within the **on start** block. Yo
 
 20. Click on **Math**.
 
-21. Click and drag a **0 - 0** block to the coding area and attach it within the **1** of the **change seconds by** block. Change the second **0** to 1. Your code should look like this:
+21. Click and drag a **0 - 0** block to the coding area and attach it within the **1** of the **change seconds by** block. Change the second **0** to **1**. Your code should look like this:
 
  ![Code Block 8](images/CodeBlock08.png)
 
