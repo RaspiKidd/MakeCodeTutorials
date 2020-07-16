@@ -8,13 +8,13 @@ Within this tutorial we are going to create a countdown timer using a micro:bit 
 
 ### You Will Need
 
-1 x micro:bit
+* 1 x micro:bit
 * 1 x micro USB cable
 * 1 x computer with internet connection
 
 Open Google Chrome on your computer by clicking this icon ![Chrome](images/Chrome.png)
 
-Once Chrome has opened type: [makecode.microbit.org](https://makecode.microbit.org/) into the search bar and press enter and click on new preoject once the pages has loaded.
+Once Chrome has opened type: [makecode.microbit.org](https://makecode.microbit.org/) into the search bar and press enter and click on new project once the pages has loaded.
 
 #### Let's Get Coding!
 
