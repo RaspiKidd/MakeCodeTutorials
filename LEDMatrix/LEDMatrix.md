@@ -49,7 +49,7 @@ These are the blocks that we can use to control the LED matrix.
 
 Let's take a look at these blocks in a bit more detail and see how we can use them.
 
-## show Number
+## Show Number
 
 1. Click and drag the forever code block to the left of the screen and drop it within the bin that appears.
 
@@ -60,3 +60,87 @@ Let's take a look at these blocks in a bit more detail and see how we can use th
 4. Click on Download to flash the code to your micro:bit. Once it is finished you should now see the number you picked scroll across the LED matrix on your micro:bit.
 
 If you don't have a micro:bit don't worry you can use the simulator that is built-in to the MakeCode editor.
+
+Your code should look like this:
+
+![Show Number Code](Images/ShowNumberCode.png)
+
+## Show LEDs
+
+1. Click and drag the forever block to the left of the screen and drop it in the bin that appears.
+
+2. Click on Basic. Click and drag a show leds block to the code area and attach it within the on start block.
+
+3. Click on any of the squares to make your own pattern.
+
+4. Click on Download to run your program on your micro:bit.
+
+Your code should look like this:
+
+![Show LEDs code](Images/ShowLedsCode.png)
+
+## Show Icon
+
+1. Click on the forever block and drag it to the left of the screen and drop it in the bin that appears.
+
+2. Click on Basic. Click and drag a show icon block to the code area and attach it within the on start block.
+
+3. Click on the little arrow next to the heart and pick any icon you like.
+
+4. Click on Download to download and run your code on your micro:bit.
+
+Your code should look like this:
+
+![Show Icon Code](Images/ShowIconCode.png)
+
+## Show String
+
+1. Click and drag the forever block to the left of the screen and drop it in the bin that appears.
+
+2. Click on Basic. Click and drag a show string block to the code area and attach it within the on start block.
+
+3. Click on "Hello!" and type your own message.
+
+4. Click on Download to download your code to your micro:bit.
+
+Your Code should look like this:
+
+![Show string code](Images/ShowStringCode.png)
+
+## Show Arrow
+
+1. Click and drag the forever block to the left of the screen and drop it within the bin that appears.
+
+2. Click on Basic. Click and drag a show arrow to the code area and attach it within the on start block.
+
+3. Click on the arrow next to north and pick any direction you like.
+
+4. Click on Download to download your code to your micro:bit.
+
+Your code should look like this:
+
+![Show arrow code](Images/ShowArrowCode.png)
+
+## Clear Screen
+
+We are going to re-purpose our code from above and add to it for this next bit of code.
+
+1. Click on the little arrow next to the arrow direction and pick a different direction.
+
+2. Click on Basic. Click and drag a clear screen block to the code area and attach it under the show arrow block.
+
+3. Click on Download to download and run your code on your micro:bit.
+
+Your code should look like this:
+
+![Clear screen code](Images/ClearScreenCode.png)
+
+## Conclusion
+
+We have now learned how to use the LED matrix on the micro:bit
+
+## Challenge
+
+You now know how to use all the show blocks on their own.
+
+Why not try and use a few of them together to create your own program.
