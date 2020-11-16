@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learning how to use the LED matrix on the micro:bit which can be used as a screen to output data.
+Learn how to use the LED matrix on the micro:bit which can be used as a screen to output data.
 
 We are going to explore how to use the LED matrix with MakeCode.
 
@@ -107,6 +107,8 @@ Your Code should look like this:
 
 ![Show string code](Images/ShowStringCode.png)
 
+\pagebreak
+
 ## Show Arrow
 
 1. Click and drag the forever block to the left of the screen and drop it within the bin that appears.
@@ -139,8 +141,8 @@ Your code should look like this:
 
 We have now learned how to use the LED matrix on the micro:bit
 
-## Challenge
-
-You now know how to use all the show blocks on their own.
-
-Why not try and use a few of them together to create your own program.
+> ## Challenge
+>
+> You now know how to use all the show blocks on their own.
+>
+> Why not try and use a few of them together to create your own program.
