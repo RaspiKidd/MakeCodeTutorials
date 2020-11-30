@@ -4,6 +4,11 @@
 
 Within this tutorial we are going to show you two different ways that you can use the buttons on the micro:bit using the MakeCode editor.
 
+---
+**NOTE:** You do not need a micro:bit to do this tutorial.
+
+---
+
 ## Getting Started
 
 1. Open your favourite web browser (we recommend Google Chrome).
