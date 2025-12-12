@@ -27,19 +27,19 @@ To code your Christmas tree we first need to open the MakeCode editor. You can d
 
 ### Importing The Neopixel Extension
 
-1. Click on Advanced.
-2. Click on Extensions
-3. click on **neopixel**
+1. Select Extensions
+2. Type **neopixel** into the search bar
+3. Select **neopixel**
 
 ### Setting Up The Neopixels
 
-1. Click on **Variables**
-2. Click on **Make a Variable...**
+1. Select **Variables**
+2. Select **Make a Variable...**
 3. Type **tree** and press enter
-4. Click on **Neopixel**
-5. Click and drag a **set strip to NeoPixel at pin P0 with 24 leds as RGB (RGBformat)** to the coding area and attach it within the **on start** Code block.
-6. Click on the arrow next to **strip** and click on **tree**
-7. Click on **24** and type **5**. This is how many neopixels are on the Christmas Tree.
+4. Select **Neopixel**
+5. Select and drag a **set strip to NeoPixel at pin P0 with 24 leds as RGB (RGBformat)** to the coding area and attach it within the **on start** Code block.
+6. Select the arrow next to **strip** and click on **tree**
+7. Select **24** and type **5**. This is how many neopixels are on the Christmas Tree.
 
 Your Code should now look like this:
 ![Setting up Neopixels](Images/CodeBlock01.png)
@@ -49,18 +49,16 @@ We now have the Neopixels configured in MakeCode. We can now code our Christmas 
 
 ### Lighting Up Our Tree
 
-1. Click on Neopixel
-2. Click and drag a **strip show rainbow from 1 to 360** to the coding area and attach it within the **forever** block
-3. Click on the small arrow next to **strip** and click on **tree**
+1. Select **Neopixel**
+2. Select and drag a **strip show rainbow from 1 to 360** to the coding area and attach it within the **forever** block
+3. Select the small arrow next to **strip** and select **tree**
 
 Your code should now look like this:
 ![Lighting up your Christmas tree](Images/CodeBlock02.png)
 
 ## Downloading your code to the micro:bit
 
-1. Click on **Download** and save your code file in the downloads folder
-2. Navigate to the Downloads folder on your computer
-3. Copy your code file
-4. Click on **MICROBIT** in the file manager and paste your cod file.
+1. Pair the micro:bit to your computer
+2. Select Download
 
 You will now see the light on the back of your micro:bit. Once this has finished. you should see your Christmas tree light up.
