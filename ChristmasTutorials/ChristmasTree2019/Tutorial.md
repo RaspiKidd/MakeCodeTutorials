@@ -62,3 +62,7 @@ Your code should now look like this:
 2. Select Download
 
 You will now see the light on the back of your micro:bit. Once this has finished. you should see your Christmas tree light up.
+
+## Rotating Colours
+
+![Lighting up your Christmas tree final](Images/CompletedCode.png)
